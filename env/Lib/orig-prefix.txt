@@ -1,0 +1,1 @@
+c:\users\mwiny\appdata\local\google\cloud sdk\google-cloud-sdk\platform\bundledpython
